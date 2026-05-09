@@ -1,0 +1,361 @@
+ID_Producto,Nombre_Producto,Categoría,ID_Sucursal,Nombre_Sucursal,Enero,Febrero,Marzo,Abril,Mayo
+101,Laptop Pro,Electrónica,S01,Lima Centro,16540,17890,15430,,19210
+102,Smartphone X,Electrónica,S02,Arequipa,12340,13110,12870,14320,15600
+201,Silla Ergonómica,Mobiliario,S03,Trujillo,8120,,9300,7650,9880
+202,Escritorio Moderno,Mobiliario,S04,Cusco,11500,10870,11240,12190,
+301,Teclado Mecánico,Accesorios,S05,Miraflores,5320,5670,,6100,6750
+302,Mouse Inalámbrico,Accesorios,S06,Piura,,4950,5130,5210,5490
+103,Tablet Lite,Electrónica,S01,Lima Centro,9200,9870,8990,10340,11150
+104,Monitor 4K,Electrónica,S02,Arequipa,14500,15210,14880,15900,16750
+105,Smartwatch,Electrónica,S03,Trujillo,7500,,7950,8200,8550
+203,Lámpara de Escritorio,Mobiliario,S04,Cusco,3100,3300,,3450,3700
+204,Estantería,Mobiliario,S05,Miraflores,6200,6550,6300,6800,
+303,Webcam HD,Accesorios,S06,Piura,2500,2650,2750,2800,2950
+304,Hub USB-C,Accesorios,S01,Lima Centro,,2100,2250,2350,2500
+401,Licuadora Power,Hogar,S02,Arequipa,3500,3700,3600,3850,4050
+402,Cafetera Express,Hogar,S03,Trujillo,4200,4400,4300,,4750
+101,Laptop Pro,Electrónica,S04,Cusco,16800,17200,16500,18100,19000
+102,Smartphone X,Electrónica,S05,Miraflores,12500,13300,12700,14100,15400
+201,Silla Ergonómica,Mobiliario,S06,Piura,8300,8600,,7800,9700
+202,Escritorio Moderno,Mobiliario,S01,Lima Centro,11700,,11400,12300,12800
+301,Teclado Mecánico,Accesorios,S02,Arequipa,5400,5800,6100,6300,6800
+302,Mouse Inalámbrico,Accesorios,S03,Trujillo,4700,4900,5200,5100,
+103,Tablet Lite,Electrónica,S04,Cusco,9400,9900,8800,,11200
+104,Monitor 4K,Electrónica,S05,Miraflores,14700,15400,15000,16100,16900
+105,Smartwatch,Electrónica,S06,Piura,7700,7900,8100,8300,8600
+203,Lámpara de Escritorio,Mobiliario,S01,Lima Centro,,3400,3600,3500,3800
+204,Estantería,Mobiliario,S02,Arequipa,6400,6700,6500,7000,7300
+303,Webcam HD,Accesorios,S03,Trujillo,2600,2700,2800,,3000
+304,Hub USB-C,Accesorios,S04,Cusco,2200,2300,2400,2500,2600
+401,Licuadora Power,Hogar,S05,Miraflores,3600,,3700,3900,4100
+402,Cafetera Express,Hogar,S06,Piura,4300,4500,4400,4800,
+101,Laptop Pro,Electrónica,S01,Lima Centro,16700,17500,,18300,19200
+102,Smartphone X,Electrónica,S02,Arequipa,12600,13400,12900,14200,15500
+201,Silla Ergonómica,Mobiliario,S03,Trujillo,8400,8700,9200,7900,9800
+202,Escritorio Moderno,Mobiliario,S04,Cusco,,11100,11600,12400,12900
+301,Teclado Mecánico,Accesorios,S05,Miraflores,5500,5900,6200,6400,6900
+302,Mouse Inalámbrico,Accesorios,S06,Piura,4800,5000,5300,5200,5700
+103,Tablet Lite,Electrónica,S01,Lima Centro,9500,,9000,10500,11300
+104,Monitor 4K,Electrónica,S02,Arequipa,14800,15500,15100,16200,17000
+105,Smartwatch,Electrónica,S03,Trujillo,7800,8000,8200,8400,
+203,Lámpara de Escritorio,Mobiliario,S04,Cusco,3300,3500,,3700,3900
+204,Estantería,Mobiliario,S05,Miraflores,6500,6800,6600,7100,7400
+303,Webcam HD,Accesorios,S06,Piura,2700,2800,2900,3000,3100
+304,Hub USB-C,Accesorios,S01,Lima Centro,,2400,2500,2600,2700
+401,Licuadora Power,Hogar,S02,Arequipa,3700,3900,3800,4000,4200
+402,Cafetera Express,Hogar,S03,Trujillo,4400,4600,,4900,5100
+101,Laptop Pro,Electrónica,S04,Cusco,16900,17700,16800,18400,
+102,Smartphone X,Electrónica,S05,Miraflores,12700,13500,13000,14300,15600
+201,Silla Ergonómica,Mobiliario,S06,Piura,8500,8800,9300,8000,9900
+202,Escritorio Moderno,Mobiliario,S01,Lima Centro,11900,11300,,12500,13000
+301,Teclado Mecánico,Accesorios,S02,Arequipa,5600,6000,6300,6500,7000
+302,Mouse Inalámbrico,Accesorios,S03,Trujillo,4900,5100,5400,5300,
+103,Tablet Lite,Electrónica,S04,Cusco,9600,10100,9100,10600,11400
+104,Monitor 4K,Electrónica,S05,Miraflores,,15600,15200,16300,17100
+105,Smartwatch,Electrónica,S06,Piura,7900,8100,8300,8500,8800
+203,Lámpara de Escritorio,Mobiliario,S01,Lima Centro,3400,3600,3800,3700,4000
+204,Estantería,Mobiliario,S02,Arequipa,6600,6900,6700,,7500
+303,Webcam HD,Accesorios,S03,Trujillo,2800,2900,3000,3100,3200
+304,Hub USB-C,Accesorios,S04,Cusco,2400,,2600,2700,2800
+401,Licuadora Power,Hogar,S05,Miraflores,3800,4000,3900,4100,4300
+402,Cafetera Express,Hogar,S06,Piura,4500,4700,4600,5000,
+101,Laptop Pro,Electrónica,S01,Lima Centro,17000,17800,16900,18500,19400
+102,Smartphone X,Electrónica,S02,Arequipa,12800,13600,,14400,15700
+201,Silla Ergonómica,Mobiliario,S03,Trujillo,8600,8900,9400,8100,10000
+202,Escritorio Moderno,Mobiliario,S04,Cusco,12000,11400,11800,,13100
+301,Teclado Mecánico,Accesorios,S05,Miraflores,5700,6100,6400,6600,7100
+302,Mouse Inalámbrico,Accesorios,S06,Piura,5000,5200,5500,5400,5900
+103,Tablet Lite,Electrónica,S01,Lima Centro,,10200,9200,10700,11500
+104,Monitor 4K,Electrónica,S02,Arequipa,15000,15700,15300,16400,17200
+105,Smartwatch,Electrónica,S03,Trujillo,8000,8200,8400,8600,8900
+203,Lámpara de Escritorio,Mobiliario,S04,Cusco,3500,3700,3900,3800,
+204,Estantería,Mobiliario,S05,Miraflores,6700,,6800,7300,7600
+303,Webcam HD,Accesorios,S06,Piura,2900,3000,3100,3200,3300
+304,Hub USB-C,Accesorios,S01,Lima Centro,2500,2700,2800,2900,3000
+401,Licuadora Power,Hogar,S02,Arequipa,3900,4100,4000,,4400
+402,Cafetera Express,Hogar,S03,Trujillo,4600,4800,4700,5100,5300
+101,Laptop Pro,Electrónica,S04,Cusco,17100,17900,17000,18600,19500
+102,Smartphone X,Electrónica,S05,Miraflores,12900,13700,13200,14500,
+201,Silla Ergonómica,Mobiliario,S06,Piura,8700,9000,,8200,10100
+202,Escritorio Moderno,Mobiliario,S01,Lima Centro,12100,11500,11900,12700,13200
+301,Teclado Mecánico,Accesorios,S02,Arequipa,5800,6200,6500,6700,
+302,Mouse Inalámbrico,Accesorios,S03,Trujillo,5100,5300,5600,5500,6000
+103,Tablet Lite,Electrónica,S04,Cusco,9800,10300,9300,10800,11600
+104,Monitor 4K,Electrónica,S05,Miraflores,15100,15800,,16500,17300
+105,Smartwatch,Electrónica,S06,Piura,8100,8300,8500,8700,9000
+203,Lámpara de Escritorio,Mobiliario,S01,Lima Centro,3600,,3900,3800,4100
+204,Estantería,Mobiliario,S02,Arequipa,6800,7100,6900,7400,7700
+303,Webcam HD,Accesorios,S03,Trujillo,,3000,3100,3200,3300
+304,Hub USB-C,Accesorios,S04,Cusco,2600,2800,2900,3000,3100
+401,Licuadora Power,Hogar,S05,Miraflores,4000,4200,4100,4300,4500
+402,Cafetera Express,Hogar,S06,Piura,4700,4900,4800,,5400
+101,Laptop Pro,Electrónica,S01,Lima Centro,17200,18000,17100,18700,19600
+102,Smartphone X,Electrónica,S02,Arequipa,13000,,13300,14600,15900
+201,Silla Ergonómica,Mobiliario,S03,Trujillo,8800,9100,9600,8300,
+202,Escritorio Moderno,Mobiliario,S04,Cusco,12200,11600,12000,12800,13300
+301,Teclado Mecánico,Accesorios,S05,Miraflores,5900,6300,6600,6800,7300
+302,Mouse Inalámbrico,Accesorios,S06,Piura,5200,5400,5700,5600,6100
+103,Tablet Lite,Electrónica,S01,Lima Centro,9900,10400,9400,10900,11700
+104,Monitor 4K,Electrónica,S02,Arequipa,15200,15900,15500,16600,
+105,Smartwatch,Electrónica,S03,Trujillo,,8400,8600,8800,9100
+203,Lámpara de Escritorio,Mobiliario,S04,Cusco,3700,3900,4100,4000,4300
+204,Estantería,Mobiliario,S05,Miraflores,6900,7200,7000,7500,7800
+303,Webcam HD,Accesorios,S06,Piura,3000,3200,3300,3400,
+304,Hub USB-C,Accesorios,S01,Lima Centro,2700,2900,3000,3100,3200
+401,Licuadora Power,Hogar,S02,Arequipa,4100,4300,4200,4400,4600
+402,Cafetera Express,Hogar,S03,Trujillo,4800,5000,4900,5300,5500
+101,Laptop Pro,Electrónica,S04,Cusco,17300,18100,17200,18800,19700
+102,Smartphone X,Electrónica,S05,Miraflores,13100,13900,13400,,16000
+201,Silla Ergonómica,Mobiliario,S06,Piura,8900,9200,9700,8400,10300
+202,Escritorio Moderno,Mobiliario,S01,Lima Centro,,11700,12100,12900,13400
+301,Teclado Mecánico,Accesorios,S02,Arequipa,6000,6400,6700,6900,7400
+302,Mouse Inalámbrico,Accesorios,S03,Trujillo,5300,5500,5800,5700,6200
+103,Tablet Lite,Electrónica,S04,Cusco,10000,10500,,11000,11800
+104,Monitor 4K,Electrónica,S05,Miraflores,15300,16000,15600,16700,17500
+105,Smartwatch,Electrónica,S06,Piura,8300,8500,8700,8900,
+203,Lámpara de Escritorio,Mobiliario,S01,Lima Centro,3800,4000,4200,4100,4400
+204,Estantería,Mobiliario,S02,Arequipa,7000,7300,7100,7600,7900
+303,Webcam HD,Accesorios,S03,Trujillo,3100,3300,3400,3500,3600
+304,Hub USB-C,Accesorios,S04,Cusco,,3000,3100,3200,3300
+401,Licuadora Power,Hogar,S05,Miraflores,4200,4400,4300,4500,4700
+402,Cafetera Express,Hogar,S06,Piura,4900,5100,5000,5400,5600
+101,Laptop Pro,Electrónica,S01,Lima Centro,17400,,17300,18900,19800
+102,Smartphone X,Electrónica,S02,Arequipa,13200,14000,13500,14800,16100
+201,Silla Ergonómica,Mobiliario,S03,Trujillo,9000,9300,9800,8500,10400
+202,Escritorio Moderno,Mobiliario,S04,Cusco,12400,11800,12200,13000,
+301,Teclado Mecánico,Accesorios,S05,Miraflores,,6500,6800,7000,7500
+302,Mouse Inalámbrico,Accesorios,S06,Piura,5400,5600,5900,5800,6300
+103,Tablet Lite,Electrónica,S01,Lima Centro,10100,10600,9600,11100,11900
+104,Monitor 4K,Electrónica,S02,Arequipa,15400,16100,15700,16800,17600
+105,Smartwatch,Electrónica,S03,Trujillo,8400,8600,8800,9000,9300
+203,Lámpara de Escritorio,Mobiliario,S04,Cusco,3900,4100,4300,,4500
+204,Estantería,Mobiliario,S05,Miraflores,7100,7400,7200,7700,8000
+303,Webcam HD,Accesorios,S06,Piura,3200,3400,3500,3600,3700
+304,Hub USB-C,Accesorios,S01,Lima Centro,2900,,3200,3300,3400
+401,Licuadora Power,Hogar,S02,Arequipa,4300,4500,4400,4600,4800
+402,Cafetera Express,Hogar,S03,Trujillo,5000,5200,,5500,5700
+101,Laptop Pro,Electrónica,S04,Cusco,17500,18300,17400,19000,19900
+102,Smartphone X,Electrónica,S05,Miraflores,13300,14100,13600,14900,
+201,Silla Ergonómica,Mobiliario,S06,Piura,9100,9400,9900,8600,10500
+202,Escritorio Moderno,Mobiliario,S01,Lima Centro,12500,11900,12300,13100,13600
+301,Teclado Mecánico,Accesorios,S02,Arequipa,6200,6600,6900,7100,
+302,Mouse Inalámbrico,Accesorios,S03,Trujillo,5500,5700,6000,5900,6400
+103,Tablet Lite,Electrónica,S04,Cusco,10200,10700,9700,11200,12000
+104,Monitor 4K,Electrónica,S05,Miraflores,15500,16200,,16900,17700
+105,Smartwatch,Electrónica,S06,Piura,8500,8700,8900,9100,9400
+203,Lámpara de Escritorio,Mobiliario,S01,Lima Centro,4000,,4300,4200,4500
+204,Estantería,Mobiliario,S02,Arequipa,7200,7500,7300,7800,8100
+303,Webcam HD,Accesorios,S03,Trujillo,,3500,3600,3700,3800
+304,Hub USB-C,Accesorios,S04,Cusco,3000,3200,3300,3400,3500
+401,Licuadora Power,Hogar,S05,Miraflores,4400,4600,4500,4700,4900
+402,Cafetera Express,Hogar,S06,Piura,5100,5300,5200,,5800
+101,Laptop Pro,Electrónica,S01,Lima Centro,17600,18400,17500,19100,20000
+102,Smartphone X,Electrónica,S02,Arequipa,13400,,13700,15000,16300
+201,Silla Ergonómica,Mobiliario,S03,Trujillo,9200,9500,10000,8700,
+202,Escritorio Moderno,Mobiliario,S04,Cusco,12600,12000,12400,13200,13700
+301,Teclado Mecánico,Accesorios,S05,Miraflores,6300,6700,7000,7200,7700
+302,Mouse Inalámbrico,Accesorios,S06,Piura,5600,5800,6100,6000,6500
+103,Tablet Lite,Electrónica,S01,Lima Centro,10300,10800,9800,11300,12100
+104,Monitor 4K,Electrónica,S02,Arequipa,15600,16300,15900,17000,
+105,Smartwatch,Electrónica,S03,Trujillo,,8800,9000,9200,9500
+203,Lámpara de Escritorio,Mobiliario,S04,Cusco,4100,4300,4500,4400,4700
+204,Estantería,Mobiliario,S05,Miraflores,7300,7600,7400,7900,8200
+303,Webcam HD,Accesorios,S06,Piura,3400,3600,3700,3800,
+304,Hub USB-C,Accesorios,S01,Lima Centro,3100,3300,3400,3500,3600
+401,Licuadora Power,Hogar,S02,Arequipa,4500,4700,4600,4800,5000
+402,Cafetera Express,Hogar,S03,Trujillo,5200,5400,5300,5700,5900
+101,Laptop Pro,Electrónica,S04,Cusco,17700,18500,17600,19200,20100
+102,Smartphone X,Electrónica,S05,Miraflores,13500,14300,13800,,16400
+201,Silla Ergonómica,Mobiliario,S06,Piura,9300,9600,10100,8800,10700
+202,Escritorio Moderno,Mobiliario,S01,Lima Centro,,12100,12500,13300,13800
+301,Teclado Mecánico,Accesorios,S02,Arequipa,6400,6800,7100,7300,7800
+302,Mouse Inalámbrico,Accesorios,S03,Trujillo,5700,5900,6200,6100,6600
+103,Tablet Lite,Electrónica,S04,Cusco,10400,10900,,11400,12200
+104,Monitor 4K,Electrónica,S05,Miraflores,15700,16400,16000,17100,17900
+105,Smartwatch,Electrónica,S06,Piura,8700,8900,9100,9300,
+203,Lámpara de Escritorio,Mobiliario,S01,Lima Centro,4200,4400,4600,4500,4800
+204,Estantería,Mobiliario,S02,Arequipa,7400,7700,7500,8000,8300
+303,Webcam HD,Accesorios,S03,Trujillo,3500,3700,3800,3900,4000
+304,Hub USB-C,Accesorios,S04,Cusco,,3400,3500,3600,3700
+401,Licuadora Power,Hogar,S05,Miraflores,4600,4800,4700,4900,5100
+402,Cafetera Express,Hogar,S06,Piura,5300,5500,5400,5800,6000
+101,Laptop Pro,Electrónica,S01,Lima Centro,17800,,17700,19300,20200
+102,Smartphone X,Electrónica,S02,Arequipa,13600,14400,13900,15200,16500
+201,Silla Ergonómica,Mobiliario,S03,Trujillo,9400,9700,10200,8900,10800
+202,Escritorio Moderno,Mobiliario,S04,Cusco,12800,12200,12600,13400,
+301,Teclado Mecánico,Accesorios,S05,Miraflores,,6900,7200,7400,7900
+302,Mouse Inalámbrico,Accesorios,S06,Piura,5800,6000,6300,6200,6700
+103,Tablet Lite,Electrónica,S01,Lima Centro,10500,11000,10000,11500,12300
+104,Monitor 4K,Electrónica,S02,Arequipa,15800,16500,16100,17200,18000
+105,Smartwatch,Electrónica,S03,Trujillo,8800,9000,9200,9400,9700
+203,Lámpara de Escritorio,Mobiliario,S04,Cusco,4300,4500,4700,,4900
+204,Estantería,Mobiliario,S05,Miraflores,7500,7800,7600,8100,8400
+303,Webcam HD,Accesorios,S06,Piura,3600,3800,3900,4000,4100
+304,Hub USB-C,Accesorios,S01,Lima Centro,3300,,3600,3700,3800
+401,Licuadora Power,Hogar,S02,Arequipa,4700,4900,4800,5000,5200
+402,Cafetera Express,Hogar,S03,Trujillo,5400,5600,,5900,6100
+101,Laptop Pro,Electrónica,S04,Cusco,17900,18700,17800,19400,20300
+102,Smartphone X,Electrónica,S05,Miraflores,13700,14500,14000,15300,
+201,Silla Ergonómica,Mobiliario,S06,Piura,9500,9800,10300,9000,10900
+202,Escritorio Moderno,Mobiliario,S01,Lima Centro,12900,12300,12700,13500,14000
+301,Teclado Mecánico,Accesorios,S02,Arequipa,6600,7000,7300,7500,
+302,Mouse Inalámbrico,Accesorios,S03,Trujillo,5900,6100,6400,6300,6800
+103,Tablet Lite,Electrónica,S04,Cusco,10600,11100,10100,11600,12400
+104,Monitor 4K,Electrónica,S05,Miraflores,15900,16600,,17300,18100
+105,Smartwatch,Electrónica,S06,Piura,8900,9100,9300,9500,9800
+203,Lámpara de Escritorio,Mobiliario,S01,Lima Centro,4400,,4700,4600,4900
+204,Estantería,Mobiliario,S02,Arequipa,7600,7900,7700,8200,8500
+303,Webcam HD,Accesorios,S03,Trujillo,,3900,4000,4100,4200
+304,Hub USB-C,Accesorios,S04,Cusco,3400,3600,3700,3800,3900
+401,Licuadora Power,Hogar,S05,Miraflores,4800,5000,4900,5100,5300
+402,Cafetera Express,Hogar,S06,Piura,5500,5700,5600,,6200
+101,Laptop Pro,Electrónica,S01,Lima Centro,18000,18800,17900,19500,20400
+102,Smartphone X,Electrónica,S02,Arequipa,13800,,14100,15400,16700
+201,Silla Ergonómica,Mobiliario,S03,Trujillo,9600,9900,10400,9100,
+202,Escritorio Moderno,Mobiliario,S04,Cusco,13000,12400,12800,13600,14100
+301,Teclado Mecánico,Accesorios,S05,Miraflores,6700,7100,7400,7600,8100
+302,Mouse Inalámbrico,Accesorios,S06,Piura,6000,6200,6500,6400,6900
+103,Tablet Lite,Electrónica,S01,Lima Centro,10700,11200,10200,11700,12500
+104,Monitor 4K,Electrónica,S02,Arequipa,16000,16700,16300,17400,
+105,Smartwatch,Electrónica,S03,Trujillo,,9200,9400,9600,9900
+203,Lámpara de Escritorio,Mobiliario,S04,Cusco,4500,4700,4900,4800,5100
+204,Estantería,Mobiliario,S05,Miraflores,7700,8000,7800,8300,8600
+303,Webcam HD,Accesorios,S06,Piura,3800,4000,4100,4200,
+304,Hub USB-C,Accesorios,S01,Lima Centro,3500,3700,3800,3900,4000
+401,Licuadora Power,Hogar,S02,Arequipa,4900,5100,5000,5200,5400
+402,Cafetera Express,Hogar,S03,Trujillo,5600,5800,5700,6100,6300
+101,Laptop Pro,Electrónica,S04,Cusco,18100,18900,18000,19600,20500
+102,Smartphone X,Electrónica,S05,Miraflores,13900,14700,14200,,16800
+201,Silla Ergonómica,Mobiliario,S06,Piura,9700,10000,10500,9200,11100
+202,Escritorio Moderno,Mobiliario,S01,Lima Centro,,12500,12900,13700,14200
+301,Teclado Mecánico,Accesorios,S02,Arequipa,6800,7200,7500,7700,8200
+302,Mouse Inalámbrico,Accesorios,S03,Trujillo,6100,6300,6600,6500,7000
+103,Tablet Lite,Electrónica,S04,Cusco,10800,11300,,11800,12600
+104,Monitor 4K,Electrónica,S05,Miraflores,16100,16800,16400,17500,18300
+105,Smartwatch,Electrónica,S06,Piura,9100,9300,9500,9700,
+203,Lámpara de Escritorio,Mobiliario,S01,Lima Centro,4600,4800,5000,4900,5200
+204,Estantería,Mobiliario,S02,Arequipa,7800,8100,7900,8400,8700
+303,Webcam HD,Accesorios,S03,Trujillo,3900,4100,4200,4300,4400
+304,Hub USB-C,Accesorios,S04,Cusco,,3800,3900,4000,4100
+401,Licuadora Power,Hogar,S05,Miraflores,5000,5200,5100,5300,5500
+402,Cafetera Express,Hogar,S06,Piura,5700,5900,5800,6200,6400
+101,Laptop Pro,Electrónica,S01,Lima Centro,18200,,18100,19700,20600
+102,Smartphone X,Electrónica,S02,Arequipa,14000,14800,14300,15600,16900
+201,Silla Ergonómica,Mobiliario,S03,Trujillo,9800,10100,10600,9300,11200
+202,Escritorio Moderno,Mobiliario,S04,Cusco,13200,12600,13000,13800,
+301,Teclado Mecánico,Accesorios,S05,Miraflores,,7300,7600,7800,8300
+302,Mouse Inalámbrico,Accesorios,S06,Piura,6200,6400,6700,6600,7100
+103,Tablet Lite,Electrónica,S01,Lima Centro,10900,11400,10400,11900,12700
+104,Monitor 4K,Electrónica,S02,Arequipa,16200,16900,16500,17600,18400
+105,Smartwatch,Electrónica,S03,Trujillo,9200,9400,9600,9800,10100
+203,Lámpara de Escritorio,Mobiliario,S04,Cusco,4700,4900,5100,,5300
+204,Estantería,Mobiliario,S05,Miraflores,7900,8200,8000,8500,8800
+303,Webcam HD,Accesorios,S06,Piura,4000,4200,4300,4400,4500
+304,Hub USB-C,Accesorios,S01,Lima Centro,3700,,4000,4100,4200
+401,Licuadora Power,Hogar,S02,Arequipa,5100,5300,5200,5400,5600
+402,Cafetera Express,Hogar,S03,Trujillo,5800,6000,,6300,6500
+101,Laptop Pro,Electrónica,S04,Cusco,18300,19100,18200,19800,20700
+102,Smartphone X,Electrónica,S05,Miraflores,14100,14900,14400,15700,
+201,Silla Ergonómica,Mobiliario,S06,Piura,9900,10200,10700,9400,11300
+202,Escritorio Moderno,Mobiliario,S01,Lima Centro,13300,12700,13100,13900,14400
+301,Teclado Mecánico,Accesorios,S02,Arequipa,7000,7400,7700,7900,
+302,Mouse Inalámbrico,Accesorios,S03,Trujillo,6300,6500,6800,6700,7200
+103,Tablet Lite,Electrónica,S04,Cusco,11000,11500,10500,12000,12800
+104,Monitor 4K,Electrónica,S05,Miraflores,16300,17000,,17700,18500
+105,Smartwatch,Electrónica,S06,Piura,9300,9500,9700,9900,10200
+203,Lámpara de Escritorio,Mobiliario,S01,Lima Centro,4800,,5100,5000,5300
+204,Estantería,Mobiliario,S02,Arequipa,8000,8300,8100,8600,8900
+303,Webcam HD,Accesorios,S03,Trujillo,,4300,4400,4500,4600
+304,Hub USB-C,Accesorios,S04,Cusco,3800,4000,4100,4200,4300
+401,Licuadora Power,Hogar,S05,Miraflores,5200,5400,5300,5500,5700
+402,Cafetera Express,Hogar,S06,Piura,5900,6100,6000,,6600
+101,Laptop Pro,Electrónica,S01,Lima Centro,18400,19200,18300,19900,20800
+102,Smartphone X,Electrónica,S02,Arequipa,14200,,14500,15800,17100
+201,Silla Ergonómica,Mobiliario,S03,Trujillo,10000,10300,10800,9500,
+202,Escritorio Moderno,Mobiliario,S04,Cusco,13400,12800,13200,14000,14500
+301,Teclado Mecánico,Accesorios,S05,Miraflores,7100,7500,7800,8000,8500
+302,Mouse Inalámbrico,Accesorios,S06,Piura,6400,6600,6900,6800,7300
+103,Tablet Lite,Electrónica,S01,Lima Centro,11100,11600,10600,12100,12900
+104,Monitor 4K,Electrónica,S02,Arequipa,16400,17100,16700,17800,
+105,Smartwatch,Electrónica,S03,Trujillo,,9600,9800,10000,10300
+203,Lámpara de Escritorio,Mobiliario,S04,Cusco,4900,5100,5300,5200,5500
+204,Estantería,Mobiliario,S05,Miraflores,8100,8400,8200,8700,9000
+303,Webcam HD,Accesorios,S06,Piura,4200,4400,4500,4600,
+304,Hub USB-C,Accesorios,S01,Lima Centro,3900,4100,4200,4300,4400
+401,Licuadora Power,Hogar,S02,Arequipa,5300,5500,5400,5600,5800
+402,Cafetera Express,Hogar,S03,Trujillo,6000,6200,6100,6500,6700
+101,Laptop Pro,Electrónica,S04,Cusco,18500,19300,18400,20000,20900
+102,Smartphone X,Electrónica,S05,Miraflores,14300,15100,14600,,17200
+201,Silla Ergonómica,Mobiliario,S06,Piura,10100,10400,10900,9600,11500
+202,Escritorio Moderno,Mobiliario,S01,Lima Centro,,12900,13300,14100,14600
+301,Teclado Mecánico,Accesorios,S02,Arequipa,7200,7600,7900,8100,8600
+302,Mouse Inalámbrico,Accesorios,S03,Trujillo,6500,6700,7000,6900,7400
+103,Tablet Lite,Electrónica,S04,Cusco,11200,11700,,12200,13000
+104,Monitor 4K,Electrónica,S05,Miraflores,16500,17200,16800,17900,18700
+105,Smartwatch,Electrónica,S06,Piura,9500,9700,9900,10100,
+203,Lámpara de Escritorio,Mobiliario,S01,Lima Centro,5000,5200,5400,5300,5600
+204,Estantería,Mobiliario,S02,Arequipa,8200,8500,8300,8800,9100
+303,Webcam HD,Accesorios,S03,Trujillo,4300,4500,4600,4700,4800
+304,Hub USB-C,Accesorios,S04,Cusco,,4200,4300,4400,4500
+401,Licuadora Power,Hogar,S05,Miraflores,5400,5600,5500,5700,5900
+402,Cafetera Express,Hogar,S06,Piura,6100,6300,6200,6600,6800
+101,Laptop Pro,Electrónica,S01,Lima Centro,18600,,18500,20100,21000
+102,Smartphone X,Electrónica,S02,Arequipa,14400,15200,14700,16000,17300
+201,Silla Ergonómica,Mobiliario,S03,Trujillo,10200,10500,11000,9700,11600
+202,Escritorio Moderno,Mobiliario,S04,Cusco,13600,13000,13400,14200,
+301,Teclado Mecánico,Accesorios,S05,Miraflores,,7700,8000,8200,8700
+302,Mouse Inalámbrico,Accesorios,S06,Piura,6600,6800,7100,7000,7500
+103,Tablet Lite,Electrónica,S01,Lima Centro,11300,11800,10800,12300,13100
+104,Monitor 4K,Electrónica,S02,Arequipa,16600,17300,16900,18000,18800
+105,Smartwatch,Electrónica,S03,Trujillo,9600,9800,10000,10200,10500
+203,Lámpara de Escritorio,Mobiliario,S04,Cusco,5100,5300,5500,,5700
+204,Estantería,Mobiliario,S05,Miraflores,8300,8600,8400,8900,9200
+303,Webcam HD,Accesorios,S06,Piura,4400,4600,4700,4800,4900
+304,Hub USB-C,Accesorios,S01,Lima Centro,4100,,4400,4500,4600
+401,Licuadora Power,Hogar,S02,Arequipa,5500,5700,5600,5800,6000
+402,Cafetera Express,Hogar,S03,Trujillo,6200,6400,,6700,6900
+101,Laptop Pro,Electrónica,S04,Cusco,18700,19500,18600,20200,21100
+102,Smartphone X,Electrónica,S05,Miraflores,14500,15300,14800,16100,
+201,Silla Ergonómica,Mobiliario,S06,Piura,10300,10600,11100,9800,11700
+202,Escritorio Moderno,Mobiliario,S01,Lima Centro,13700,13100,13500,14300,14800
+301,Teclado Mecánico,Accesorios,S02,Arequipa,7400,7800,8100,8300,
+302,Mouse Inalámbrico,Accesorios,S03,Trujillo,6700,6900,7200,7100,7600
+103,Tablet Lite,Electrónica,S04,Cusco,11400,11900,10900,12400,13200
+104,Monitor 4K,Electrónica,S05,Miraflores,16700,17400,,18100,18900
+105,Smartwatch,Electrónica,S06,Piura,9700,9900,10100,10300,10600
+203,Lámpara de Escritorio,Mobiliario,S01,Lima Centro,5200,,5500,5400,5700
+204,Estantería,Mobiliario,S02,Arequipa,8400,8700,8500,9000,9300
+303,Webcam HD,Accesorios,S03,Trujillo,,4700,4800,4900,5000
+304,Hub USB-C,Accesorios,S04,Cusco,4200,4400,4500,4600,4700
+401,Licuadora Power,Hogar,S05,Miraflores,5600,5800,5700,5900,6100
+402,Cafetera Express,Hogar,S06,Piura,6300,6500,6400,,7000
+101,Laptop Pro,Electrónica,S01,Lima Centro,18800,19600,18700,20300,21200
+102,Smartphone X,Electrónica,S02,Arequipa,14600,,14900,16200,17500
+201,Silla Ergonómica,Mobiliario,S03,Trujillo,10400,10700,11200,9900,
+202,Escritorio Moderno,Mobiliario,S04,Cusco,13800,13200,13600,14400,14900
+301,Teclado Mecánico,Accesorios,S05,Miraflores,7500,7900,8200,8400,8900
+302,Mouse Inalámbrico,Accesorios,S06,Piura,6800,7000,7300,7200,7700
+103,Tablet Lite,Electrónica,S01,Lima Centro,11500,12000,11000,12500,13300
+104,Monitor 4K,Electrónica,S02,Arequipa,16800,17500,17100,18200,
+105,Smartwatch,Electrónica,S03,Trujillo,,10000,10200,10400,10700
+203,Lámpara de Escritorio,Mobiliario,S04,Cusco,5300,5500,5700,5600,5900
+204,Estantería,Mobiliario,S05,Miraflores,8500,8800,8600,9100,9400
+303,Webcam HD,Accesorios,S06,Piura,4600,4800,4900,5000,
+304,Hub USB-C,Accesorios,S01,Lima Centro,4300,4500,4600,4700,4800
+401,Licuadora Power,Hogar,S02,Arequipa,5700,5900,5800,6000,6200
+402,Cafetera Express,Hogar,S03,Trujillo,6400,6600,6500,6900,7100
+101,Laptop Pro,Electrónica,S04,Cusco,18900,19700,18800,20400,21300
+102,Smartphone X,Electrónica,S05,Miraflores,14700,15500,15000,,17600
+201,Silla Ergonómica,Mobiliario,S06,Piura,10500,10800,11300,10000,11900
+202,Escritorio Moderno,Mobiliario,S01,Lima Centro,,13300,13700,14500,15000
+301,Teclado Mecánico,Accesorios,S02,Arequipa,7600,8000,8300,8500,9000
+302,Mouse Inalámbrico,Accesorios,S03,Trujillo,6900,7100,7400,7300,7800
+103,Tablet Lite,Electrónica,S04,Cusco,11600,12100,,12600,13400
+104,Monitor 4K,Electrónica,S05,Miraflores,16900,17600,17200,18300,19100
+105,Smartwatch,Electrónica,S06,Piura,9900,10100,10300,10500,
+203,Lámpara de Escritorio,Mobiliario,S01,Lima Centro,5400,5600,5800,5700,6000
+204,Estantería,Mobiliario,S02,Arequipa,8600,8900,8700,9200,9500
+303,Webcam HD,Accesorios,S03,Trujillo,4700,4900,5000,5100,5200
+304,Hub USB-C,Accesorios,S04,Cusco,,4600,4700,4800,4900
+401,Licuadora Power,Hogar,S05,Miraflores,5800,6000,5900,6100,6300
+402,Cafetera Express,Hogar,S06,Piura,6500,6700,6600,7000,7200
